@@ -34,12 +34,6 @@ migrate_working_dir/
 # Exceto a pasta web dentro da build
 !/build/web
 
-# Ignorar todos os arquivos dentro da pasta web
-/build/web/**
-
-# Exceto os próprios diretórios e arquivos dentro da pasta web
-!/build/web/**
-
 # Symbolication related
 app.*.symbols
 
