@@ -15,7 +15,7 @@ opção é mais econômica para sua necessidade específica.
 
 - **Proteína por kg de Filé de Frango**: Aproximadamente 230g (23% de proteína por kg).
 - **Proteína por kg de Peito de Frango com Osso**: Aproximadamente 138g (23% de proteína por kg,
-  considerando um rendimento de 60% após desossar e remover a pele).
+  considerando um rendimento de 80% após desossar e remover a pele).
 
 A interface do usuário é simples e intuitiva, composta por um formulário onde os dados são inseridos
 e um botão para realizar os cálculos. Os resultados são apresentados de maneira clara, mostrando o
