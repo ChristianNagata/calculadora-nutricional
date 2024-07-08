@@ -10,8 +10,8 @@ class FormController {
   // Aproximadamente 23% de proteína por kg
   final double _filletProteinPerKg = 230.0;
 
-  // Aproximadamente 23% de proteína por kg, com 60% de rendimento
-  final double _breastProteinPerKg = 138.0;
+  // Aproximadamente 23% de proteína por kg, com 80% de rendimento
+  final double _breastProteinPerKg = 230.0 * 0.8;
 
   double _filletCost = 0.0;
   double _breastCost = 0.0;
